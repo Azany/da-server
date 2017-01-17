@@ -14,3 +14,5 @@ deny-enderpearl: true
 fill-autosave-frequency: 30
 bypass-list-uuids: []
 fill-memory-tolerance: 500
+prevent-block-place: false
+prevent-mob-spawn: false

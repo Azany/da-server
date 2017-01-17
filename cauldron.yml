@@ -108,10 +108,10 @@ world-settings:
     infinite-water-source: true
     entity-despawn-immediate: false
     worldgen-harvestcraft-PamGardenGenerator: true
-    worldgen-harvestcraft-PamTreeGenerator: true
-    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
     worldgen-harvestcraft-PamBeeGenerator: true
     worldgen-harvestcraft-WorldGenPamSalt: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-harvestcraft-PamTreeGenerator: true
     worldgen-Forestry-WorldGenerator: true
   max-players-visible: -1
   use-real-names: false

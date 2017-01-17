@@ -1,0 +1,10 @@
+CheckForUpdates: true
+config-version: 3
+items: {}
+notify:
+  any-chest: true
+  silent-chest: true
+toggles:
+  items: {}
+settings:
+  disable-saving: false
