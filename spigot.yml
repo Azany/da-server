@@ -13,13 +13,13 @@
 config-version: 7
 settings:
   bungeecord: false
-  late-bind: false
-  sample-count: 12
   timeout-time: 90
   restart-on-crash: true
   restart-script: ./start.sh
   netty-threads: -1
   fullMatchRate: 10
+  sample-count: 12
+  late-bind: false
   player-shuffle: 0
 messages:
   restart: Server is restarting
@@ -37,7 +37,12 @@ stats:
 world-settings:
   default:
     verbose: false
-    mob-spawn-range: 4
+    entity-tracking-range:
+      players: 48
+      animals: 48
+      monsters: 48
+      misc: 32
+      other: 64
     anti-xray:
       enabled: false
       engine-mode: 1
@@ -82,20 +87,15 @@ world-settings:
       tile: 1000
       entity: 1000
     max-tnt-per-tick: 100
-    entity-tracking-range:
-      players: 48
-      animals: 48
-      monsters: 48
-      misc: 32
-      other: 64
-    zombie-aggressive-towards-villager: true
-    chunks-per-tick: 650
-    clear-tick-list: false
+    mob-spawn-range: 4
     use-async-lighting: false
     view-distance: 10
     merge-radius:
       exp: 3.0
       item: 2.5
+    chunks-per-tick: 650
+    clear-tick-list: false
     item-despawn-rate: 6000
     enable-zombie-pigmen-portal-spawns: true
     arrow-despawn-rate: 1200
+    zombie-aggressive-towards-villager: true

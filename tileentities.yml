@@ -31,19 +31,25 @@ world-settings:
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
-    com-mia-props-common-entities-TileSwitchableLamp:
-      tick-no-players: false
-      tick-interval: 1
     com-mia-props-common-entities-TileParticleEmitter:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileEtherealBloom:
       tick-no-players: false
       tick-interval: 1
+    thaumcraft-common-tiles-TileMagicWorkbenchCharger:
+      tick-no-players: false
+      tick-interval: 1
     thaumcraft-common-tiles-TileArcaneLamp:
       tick-no-players: false
       tick-interval: 1
-    thaumcraft-common-tiles-TileMagicWorkbenchCharger:
+    hx-minepainter-painting-PaintingEntity:
+      tick-no-players: false
+      tick-interval: 1
+    hx-minepainter-sculpture-SculptureEntity:
+      tick-no-players: false
+      tick-interval: 1
+    com-mia-props-common-entities-TileSwitchableLamp:
       tick-no-players: false
       tick-interval: 1
     jds-bibliocraft-tileentities-TileEntitySeat:
