@@ -1,0 +1,11 @@
+# cooldown for /broll
+broadcast-cooldown: 3
+# cooldown for /roll
+personal-cooldown: 2
+# If this is true, players rolling a die will see a particle effect
+use-particles: true
+# This toggles the use of Venture Chat
+# If this is true, Dice Roller will only
+# Display the result of a broadcasted roll
+# To the people in their channel
+use-venturechat: false

@@ -19,3 +19,10 @@ users:
         - SuperAdmin
     options:
       name: idem_id
+  cc32d1fe-0d90-355f-998a-f5fb88c115b8:
+    permissions:
+    - SuperAdmin
+    options:
+      name: Teta
+    group:
+    - SuperAdmin

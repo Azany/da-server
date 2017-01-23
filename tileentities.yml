@@ -22,45 +22,75 @@ debug:
 config-version: 1
 world-settings:
   default:
+    net-minecraft-tileentity-TileEntityMobSpawner:
+      tick-no-players: false
+      tick-interval: 1
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
-    net-minecraft-tileentity-TileEntityMobSpawner:
+    thaumcraft-common-tiles-TileNitor:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
+    jds-bibliocraft-tileentities-TileEntitySeat:
+      tick-no-players: false
+      tick-interval: 1
     com-mia-props-common-entities-TileParticleEmitter:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileEtherealBloom:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileMagicWorkbenchCharger:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileArcaneLamp:
-      tick-no-players: false
-      tick-interval: 1
-    hx-minepainter-painting-PaintingEntity:
       tick-no-players: false
       tick-interval: 1
     hx-minepainter-sculpture-SculptureEntity:
       tick-no-players: false
       tick-interval: 1
-    com-mia-props-common-entities-TileSwitchableLamp:
+    thaumcraft-common-tiles-TileEtherealBloom:
       tick-no-players: false
       tick-interval: 1
-    jds-bibliocraft-tileentities-TileEntitySeat:
+    growthcraft-cellar-tileentity-TileEntityFermentBarrel:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliocraft-tileentities-TileEntityClock:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileLifter:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileVisRelay:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileMagicWorkbenchCharger:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileBellows:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileWandPedestal:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileArcaneLamp:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityBeacon:
+      tick-no-players: false
+      tick-interval: 1
+    jds-bibliocraft-tileentities-TileEntityPaintPress:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileCrystal:
+      tick-no-players: false
+      tick-interval: 1
+    hx-minepainter-painting-PaintingEntity:
+      tick-no-players: false
+      tick-interval: 1
+    net-minecraft-tileentity-TileEntityFurnace:
+      tick-no-players: false
+      tick-interval: 1
+    com-mia-props-common-entities-TileSwitchableLamp:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileEldritchObelisk:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileEldritchAltar:
-      tick-no-players: false
-      tick-interval: 1
-    net-minecraft-tileentity-TileEntityFurnace:
       tick-no-players: false
       tick-interval: 1
