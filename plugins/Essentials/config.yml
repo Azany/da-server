@@ -229,10 +229,9 @@ kits:
   tools:
     delay: 10
     items:
-      - 272 1
-      - 273 1
-      - 274 1
-      - 275 1
+      - 260 5
+      - 391 5
+      - 5052 1
   dtools:
     delay: 600
     items:
@@ -541,7 +540,7 @@ protect:
 
   # General physics/behavior modifications.
   prevent:
-    lava-flow: false
+    lava-flow: true
     water-flow: false
     water-bucket-flow: false
     fire-spread: true
@@ -549,10 +548,10 @@ protect:
     flint-fire: false
     lightning-fire-spread: true
     portal-creation: false
-    tnt-explosion: false
-    tnt-playerdamage: false
-    tnt-minecart-explosion: false
-    tnt-minecart-playerdamage: false
+    tnt-explosion: true
+    tnt-playerdamage: true
+    tnt-minecart-explosion: true
+    tnt-minecart-playerdamage: true
     fireball-explosion: false
     fireball-fire: false
     fireball-playerdamage: false
@@ -560,9 +559,9 @@ protect:
     witherskull-playerdamage: false
     wither-spawnexplosion: false
     wither-blockreplace: false
-    creeper-explosion: false
-    creeper-playerdamage: false
-    creeper-blockdamage: false
+    creeper-explosion: true
+    creeper-playerdamage: true
+    creeper-blockdamage: true
     enderdragon-blockdamage: true
     enderman-pickup: false
     villager-death: false
