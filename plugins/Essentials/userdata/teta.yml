@@ -1,20 +1,20 @@
 uuid: cc32d1fe-0d90-355f-998a-f5fb88c115b8
 timestamps:
-  login: 1485107697743
+  login: 1485521373062
   logout: 1485110236190
-ipAddress: 91.142.159.226
+ipAddress: 46.227.28.228
 lastlocation:
   world: world
-  x: 1231.5
-  y: 80.0
-  z: 4244.5
+  x: 0.5
+  y: 76.0
+  z: 0.5
   yaw: 0.0
   pitch: 0.0
 logoutlocation:
   world: world
-  x: 1244.0177464676142
-  y: 83.0
-  z: 4243.95254293499
-  yaw: -293.10052
-  pitch: 46.350243
+  x: 1213.3203092743058
+  y: 80.99745087842948
+  z: 4236.193635051289
+  yaw: 311.1005
+  pitch: 20.250156
 afk: false

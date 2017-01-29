@@ -22,23 +22,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityBunny:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityMouse:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     drzhark-mocreatures-entity-passive-MoCEntityRaccoon:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityDeer:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityBoar:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -46,31 +30,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityChicken:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityHorse:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     drzhark-mocreatures-entity-passive-MoCEntityFox:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntitySnake:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityElephant:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-item-EntityItem:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityBear:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -78,11 +38,23 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityMole:
+    drzhark-mocreatures-entity-passive-MoCEntityBunny:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityBigCat:
+    drzhark-mocreatures-entity-passive-MoCEntityElephant:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityDeer:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityHorse:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityBoar:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -90,31 +62,19 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-player-EntityPlayerMP:
+    drzhark-mocreatures-entity-passive-MoCEntityKitty:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityWerewolf:
+    drzhark-mocreatures-entity-passive-MoCEntitySnake:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntitySilverSkeleton:
+    drzhark-mocreatures-entity-passive-MoCEntityBear:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityHorseMob:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityRat:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityFlameWraith:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityMiniGolem:
+    net-minecraft-entity-item-EntityItem:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -122,39 +82,19 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityScorpion:
+    drzhark-mocreatures-entity-passive-MoCEntityMole:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityOgre:
+    net-minecraft-entity-passive-EntityChicken:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityWWolf:
+    drzhark-mocreatures-entity-passive-MoCEntityBigCat:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityBee:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntitySnail:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityMaggot:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityFirefly:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityKitty:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityGolem:
+    drzhark-mocreatures-entity-passive-MoCEntityMouse:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -162,11 +102,27 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityButterfly:
+    noppes-npcs-entity-EntityCustomNpc:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityFly:
+    net-minecraft-entity-player-EntityPlayerMP:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityRat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityHorseMob:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityWerewolf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityWWolf:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -174,11 +130,43 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    thaumcraft-common-entities-projectile-EntityAlumentum:
+    drzhark-mocreatures-entity-monster-MoCEntityMiniGolem:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityDragonfly:
+    drzhark-mocreatures-entity-ambient-MoCEntityMaggot:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityScorpion:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-ambient-MoCEntitySnail:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntitySilverSkeleton:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-ambient-MoCEntityFirefly:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityOgre:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntityRay:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityTurtle:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-ambient-MoCEntityBee:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -186,39 +174,31 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-monster-MoCEntityWraith:
+    drzhark-mocreatures-entity-ambient-MoCEntityDragonfly:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-item-EntityFallingBlock:
+    drzhark-mocreatures-entity-ambient-MoCEntityFly:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-passive-EntityWolf:
+    drzhark-mocreatures-entity-monster-MoCEntityGolem:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-monster-EntitySlime:
+    drzhark-mocreatures-entity-ambient-MoCEntityButterfly:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityPetScorpion:
+    drzhark-mocreatures-entity-passive-MoCEntityCrocodile:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-projectile-EntityEgg:
+    drzhark-mocreatures-entity-passive-MoCEntityKomodo:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-item-EntityXPOrb:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntityBat:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    thaumcraft-common-entities-monster-EntityThaumicSlime:
+    net-minecraft-entity-passive-EntityPig:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -230,7 +210,15 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-ambient-MoCEntityCrab:
+    drzhark-mocreatures-entity-monster-MoCEntityWraith:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-monster-MoCEntityFlameWraith:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityTNTPrimed:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -238,7 +226,95 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
+    net-minecraft-entity-passive-EntityBat:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-rikmuld-camping-common-objs-entity-Bear:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityMinecartChest:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
     drzhark-mocreatures-entity-aquatic-MoCEntityPiranha:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-passive-EntityWolf:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityFallingBlock:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntitySlime:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-passive-MoCEntityPetScorpion:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityWitch:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-projectile-EntityEgg:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-item-MoCEntityEgg:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-item-EntityXPOrb:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-EntityAspectOrb:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntitySmallFish:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityCreeper:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityMagmaCube:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-aquatic-MoCEntityShark:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-rikmuld-camping-common-objs-entity-Fox:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    drzhark-mocreatures-entity-ambient-MoCEntityCrab:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    net-minecraft-entity-monster-EntityCaveSpider:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    com-mrcrayfish-furniture-entity-EntitySittableBlock:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-projectile-EntityAlumentum:
+      tick-no-players: false
+      never-ever-tick: false
+      tick-interval: 1
+    thaumcraft-common-entities-monster-EntityThaumicSlime:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -258,19 +334,11 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-aquatic-MoCEntitySmallFish:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     net-minecraft-entity-passive-EntityCow:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
     net-minecraft-entity-passive-EntitySheep:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-passive-EntityPig:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -286,15 +354,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-monster-EntityCreeper:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     net-minecraft-entity-monster-EntityEnderman:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-monster-EntityWitch:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
@@ -310,26 +370,6 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    net-minecraft-entity-item-EntityMinecartChest:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    net-minecraft-entity-item-EntityTNTPrimed:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityCrocodile:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityKomodo:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    drzhark-mocreatures-entity-passive-MoCEntityTurtle:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     net-minecraft-entity-passive-EntityOcelot:
       tick-no-players: false
       never-ever-tick: false
@@ -338,15 +378,7 @@ world-settings:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1
-    drzhark-mocreatures-entity-aquatic-MoCEntityRay:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
     net-minecraft-entity-projectile-EntityArrow:
-      tick-no-players: false
-      never-ever-tick: false
-      tick-interval: 1
-    thaumcraft-common-entities-EntityAspectOrb:
       tick-no-players: false
       never-ever-tick: false
       tick-interval: 1

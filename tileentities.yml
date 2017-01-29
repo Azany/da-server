@@ -28,10 +28,40 @@ world-settings:
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
-    thaumcraft-common-tiles-TileNitor:
+    thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
-    thaumcraft-common-tiles-TileNode:
+    com-rikmuld-camping-common-objs-tile-TileEntityCampfire:
+      tick-no-players: false
+      tick-interval: 1
+    com-rikmuld-camping-common-objs-tile-TileEntityTent:
+      tick-no-players: false
+      tick-interval: 1
+    com-rikmuld-camping-common-objs-tile-TileEntityWithBounds:
+      tick-no-players: false
+      tick-interval: 1
+    com-rikmuld-camping-common-objs-tile-TileEntityLantern:
+      tick-no-players: false
+      tick-interval: 1
+    two-davincing-painting-PaintingEntity:
+      tick-no-players: false
+      tick-interval: 1
+    two-davincing-sculpture-SculptureEntity:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileJarBrain:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileEtherealBloom:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNodeConverter:
+      tick-no-players: false
+      tick-interval: 1
+    net-slimevoid-littleblocks-tileentities-TileEntityLittleChunk:
+      tick-no-players: false
+      tick-interval: 1
+    thaumcraft-common-tiles-TileNitor:
       tick-no-players: false
       tick-interval: 1
     jds-bibliocraft-tileentities-TileEntitySeat:
@@ -41,9 +71,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     hx-minepainter-sculpture-SculptureEntity:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileEtherealBloom:
       tick-no-players: false
       tick-interval: 1
     growthcraft-cellar-tileentity-TileEntityFermentBarrel:
