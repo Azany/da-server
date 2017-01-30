@@ -28,6 +28,9 @@ world-settings:
     net-minecraft-tileentity-TileEntityChest:
       tick-no-players: false
       tick-interval: 1
+    thaumcraft-common-tiles-TileEtherealBloom:
+      tick-no-players: false
+      tick-interval: 1
     thaumcraft-common-tiles-TileNode:
       tick-no-players: false
       tick-interval: 1
@@ -50,9 +53,6 @@ world-settings:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileJarBrain:
-      tick-no-players: false
-      tick-interval: 1
-    thaumcraft-common-tiles-TileEtherealBloom:
       tick-no-players: false
       tick-interval: 1
     thaumcraft-common-tiles-TileNodeConverter:
